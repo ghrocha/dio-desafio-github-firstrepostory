@@ -1,0 +1,7 @@
+1. No site do github (create new repository... coloca o nome do repositório, descrição, opção de ser público e privado)
+2. P/ clonar esse repositório no computador local (vai em CODE; dá um CTRL C no link em HTTPS)
+3. No pc local cria a pasta  e dá o GITBASH Here.
+4. Comando: git clone "+ CTRL V"
+5. git add . (ou) git add -a     adicionar os arguivos do pc no servidor
+5. git commit -m "Comentário do que vc está fazendo"
+6. git push origin main (envia todos os commits para a nuvem)
