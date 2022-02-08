@@ -1,0 +1,8 @@
+echo Alguns comando: dir (lista de diretórios); 
+cd (navegue entre as pastas); 
+cd .. (retroceder); 
+Ctrl+L (limpar tela); 
+mkdir "****" (criar pasta); 
+echo **** > ***.txt (criar arguivo txt); 
+del (deleta arguivo); 
+rmdir file /S /Q (remove diretório)
